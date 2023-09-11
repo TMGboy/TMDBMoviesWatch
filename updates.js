@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TMDb Movies
 // @namespace    https://cima4u.org/
-// @version      1.0
+// @version      2.0
 // @description  Play Any Movies/TV From TMDB
 // @author       TMGBoy
 // @match        https://www.themoviedb.org/movie/*
