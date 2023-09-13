@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         TMDb Movies
+// @name         TMDb Movies Watch Button
 // @namespace    https://cima4u.org/
 // @version      1.1
-// @description  Play Any Movies/TV From TMDB
+// @description  Play Any Movies/TV From TMDB Button
 // @author       TMGBoy
 // @match        https://www.themoviedb.org/movie/*
 // @match        https://www.themoviedb.org/tv/*
-// @icon         https://www.themoviedb.org/favicon.ico
+// @icon         https://www.cima4u.org/favicon.ico
 // @downloadURL  https://raw.githubusercontent.com/TMGboy/TMDBMoviesWatch/main/updates.js
 // @updateURL    https://raw.githubusercontent.com/TMGboy/TMDBMoviesWatch/main/updates.js
 // ==/UserScript==
